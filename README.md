@@ -25,7 +25,7 @@ A classic **Number Guessing Game** built in Python where the computer picks a nu
 
 ## 📷 Screenshot
 
-![number-guessing-game-screenshot](./screenshot.png)
+![number-guessing-game-screenshot](./image.png)
 
 ---
 
